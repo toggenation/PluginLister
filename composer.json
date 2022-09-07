@@ -1,5 +1,5 @@
 {
-    "name": "your-name-here/plugin-lister",
+    "name": "toggenation/plugin-lister",
     "description": "PluginLister plugin for CakePHP",
     "type": "cakephp-plugin",
     "license": "MIT",
